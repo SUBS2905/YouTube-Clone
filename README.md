@@ -31,7 +31,7 @@ That's it! You can now explore the project and see the static homepage in action
 
 ## Screenshot
 
-<img src="images/screenshot.png" alt="app screenshot" style="border: 2px solid  gray;">
+<img src="Images/screenshot.png" alt="app screenshot" style="border: 2px solid  gray;">
 
 ## Contributing
 
