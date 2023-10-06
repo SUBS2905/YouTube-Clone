@@ -96,10 +96,16 @@ nav{
     padding: 10px 20px;
 }
 .tag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    max-width: fit-content;
     border-radius: 8px;
     padding: 5px 15px;
     background: #ccc;
     cursor: pointer;
+    white-space: nowrap;
 }
 .dark{
     background: #000;
